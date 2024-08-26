@@ -1,4 +1,4 @@
-git package cis255;
+package cis255;
 
 import java.util.Scanner;
 
