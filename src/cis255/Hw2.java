@@ -32,4 +32,18 @@ System.out.println("c. " + (e + 1) + " " + (char)(e + 1));
 System.out.println("d. " + (f + 3) + " " + ('f' + 3));
 };
 }
-
+/* MEMORY
+ * a 7 
+ * b 2
+ * c 25
+ * d 19
+ * e 'A'
+ * f 'a'
+ * 
+ */
+/* SCREEN
+ * a. 3 1
+ * b. 25 19
+ * c. 66 B
+ * d. 100 105 
+ */
