@@ -12,7 +12,7 @@ public class hw5_5 {
 
            }else if (input >= 'A' && input <= 'Z'){
         	   input  += 32;
-            System.out.print( input);
+            System.out.print(input);
            }else{
             System.out.print(input);
           }
