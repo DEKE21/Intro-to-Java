@@ -1,0 +1,8 @@
+A. Hel
+B. Type mismatch 
+C. hello world!!
+D. WORLD
+E. O W L
+F. false
+G. true
+H. false
