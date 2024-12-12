@@ -6,8 +6,8 @@ private String lastName;
 private String firstName;
 private String hostNumber;
 private Date birthday;
-public Host() {
-}
+public Host() {}
+
 public Host(String lastName, String firstName, String hostNumber, Date birthday) {
 this.lastName = lastName;
 this.firstName = firstName;
